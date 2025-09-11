@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Dhruv Jani 👋</h1>
-<p align="center">Aspiring AI/ML Engineer | Web Programmer | Cloud Enthusiast | Lifelong Learner</p>
+<p align="center">Aspiring AI/ML Engineer | Web Programmer | Cloud Enthusiast</p>
 
 ---
 
