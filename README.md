@@ -1,89 +1,59 @@
-👋 Hi, I'm Dhruv Jani
-
-CSE Undergraduate (2026) | Full-Stack Developer | Applied AI/ML Engineer
+Hi, I'm Dhruv Jani 👋
+CSE Undergraduate (2026) - Full-Stack Developer - Applied AI/ML Engineer.​
 Building scalable systems, intuitive UI flows, and production-ready ML applications.
 
-💼 Professional Summary
+🧑‍💻 About Me
+Passionate about full-stack development and applied machine learning.
 
-Computer Science undergraduate with strong skills in full-stack development, frontend architecture, and applied machine learning. Passionate about building production-ready applications, optimizing ML workflows, and designing clean, maintainable systems.
+Enjoy taking projects from idea → prototype → production with clean, maintainable architecture.
 
-🛠️ Technical Skills
+Currently exploring better UX patterns, scalable backend design, and deployment workflows.​
 
+🛠 Tech Stack
 Languages: Python, JavaScript, C/C++, Java
+
 Frontend: React, Vite, Tailwind CSS, Context API, React Router
-Backend: Node.js, Express, JWT Auth, REST APIs
+
+Backend: Node.js, Express, REST APIs, JWT Auth
+
 AI/ML: PyTorch, scikit-learn, Librosa, NumPy, Pandas
+
 Databases: MongoDB, MySQL, SQLite
+
 DevOps & Tools: Git, Docker (familiar), Postman, Jupyter, VS Code
-Mobile: Flutter, Dart
+
+Mobile: Flutter, Dart​
 
 🚀 Featured Projects
-🧠 WellnessWise — Health Recommendation System
+WellnessWise – Health Recommendation System
+Flask-based health recommendation engine using TF-IDF, Naive Bayes, and rule-based logic with demographic tailoring, chronic-risk flags, and confidence scoring; evaluated using stratified cross-validation, confusion matrix, and F1-score.​
 
-Flask engine using TF-IDF, Naive Bayes & rule-based logic
+MailAssist – AI Email Response Generator
+Secure full-stack app with JWT auth, refresh tokens, RBAC, validation, sanitization, and rate limiting; integrates Google Gemini for contextual replies and uses reusable React components with optimized MongoDB queries.​
 
-Demographic tailoring & chronic-risk flags
+VibeLink – Real-Time Chat App
+WebSocket-based chat with typing indicators, read receipts, encrypted message storage, token-secured sockets, and a responsive Tailwind UI with avatars and status badges.​
 
-Multi-symptom UI flow with confidence scoring
+Big Bites – Food Ordering Platform
+React-based food ordering UI with routing, Context API state, dynamic menus, transitions, and a persistent real-time cart, built with responsive, reusable components and hooks.​
 
-Evaluated via stratified CV, confusion matrix & F1-score
+📚 Coursework & Highlights
+DSA - Operating Systems - DBMS - Machine Learning - Deep Learning - Computer Networks - Software Engineering.​
 
-📧 MailAssist — AI Email Response Generator
+Built 5+ full-stack and ML projects deployed to cloud / GitHub.
 
-JWT auth, refresh tokens, RBAC & secure sessions
+Recognized for intuitive UI flows, clean architecture, and certified in AI, Cloud Computing, React, and Java fundamentals.​
 
-Google Gemini integration for contextual replies
+🤝 Leadership & Community
+Led AI and web development teams on academic and personal projects.
 
-Reusable React components (editors, history viewer, navigation)
+Mentored peers in React, Git workflows, and ML tooling.
 
-Backend with sanitization, rate limiting & validation
+Organized debugging sessions and coding discussions to help juniors get unstuck.​
 
-Optimized MongoDB with compound indexes & text search
+🔗 Connect With Me
+💼 LinkedIn: dhruv-jani-1605972aa​
 
-💬 VibeLink — Real-Time Chat App
+🧑‍💻 GitHub: DHRUVXJANI​
 
-WebSocket-based messaging with typing indicators & read receipts
-
-Tailwind UI with chat bubbles, timestamps & status badges
-
-Cloudinary integration for avatars
-
-Encrypted message storage & token-secured socket authentication
-
-🍔 Big Bites — Food Ordering Platform
-
-Full React UI with routing, Context API & reusable components
-
-Dynamic menus, transitions & persistent real-time cart
-
-Responsive UX using CSS Grid/Flexbox & modular hooks
-
-Designed backend API contracts for future expansion
-
-🎓 Coursework
-
-DSA • Operating Systems • DBMS • Machine Learning • Software Engineering • Deep Learning • Computer Networks
-
-🏆 Achievements
-
-Built 5+ full-stack & ML projects deployed across cloud & GitHub
-
-Recognized for intuitive UI flows & clean architecture
-
-Certified in AI, Cloud Computing, React, and Java Fundamentals
-
-🧑‍🤝‍🧑 Leadership
-
-Led AI and web development teams
-
-Mentored peers in React, Git workflows & ML tools
-
-Organized debugging sessions and coding discussions
-
-🔗 Connect
-
-LinkedIn: https://www.linkedin.com/in/dhruv-jani-1605972aa
-
-Email: dhruvkjani@gmail.com
-
-GitHub: https://github.com/DHRUVXJANI
+📧 Email: dhruvkjani@gmail.com​
