@@ -1,59 +1,74 @@
-Hi, I'm Dhruv Jani 👋
-CSE Undergraduate (2026) - Full-Stack Developer - Applied AI/ML Engineer.​
-Building scalable systems, intuitive UI flows, and production-ready ML applications.
+<h1 align="center">Hi, I'm Dhruv Jani 👋</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DHRUVXJANI&style=flat-square" alt="profile views" />
+</p>
 
-🧑‍💻 About Me
-Passionate about full-stack development and applied machine learning.
+---
 
-Enjoy taking projects from idea → prototype → production with clean, maintainable architecture.
+🌱 **CSE Undergraduate (2026)**  
+💻 _Full-Stack Developer • Applied AI/ML Engineer_  
+🚀 Building scalable systems, intuitive UI, and production-ready ML apps
 
-Currently exploring better UX patterns, scalable backend design, and deployment workflows.​
+---
 
-🛠 Tech Stack
-Languages: Python, JavaScript, C/C++, Java
+## 🧑‍💻 About Me
+- Passionate about full-stack development & applied ML.
+- Love to take projects from **idea → prototype → production** with clean, scalable architecture.
+- Currently exploring better UX patterns, scalable backend design & deployment workflows.
 
-Frontend: React, Vite, Tailwind CSS, Context API, React Router
+---
 
-Backend: Node.js, Express, REST APIs, JWT Auth
+## 🛠️ Tech Stack
 
-AI/ML: PyTorch, scikit-learn, Librosa, NumPy, Pandas
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff) ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?logo=javascript&logoColor=000)
+![C/C++](https://img.shields.io/badge/-C/C++-00599C?logo=cplusplus&logoColor=fff) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff)
 
-Databases: MongoDB, MySQL, SQLite
+**Frontend:** React, Vite, Tailwind CSS, Context API, React Router  
+**Backend:** Node.js, Express, REST APIs, JWT Auth  
+**AI/ML:** PyTorch, scikit-learn, Librosa, NumPy, Pandas  
+**Databases:** MongoDB, MySQL, SQLite  
+**DevOps & Tools:** Git, Docker, Postman, Jupyter, VS Code  
+**Mobile:** Flutter, Dart
 
-DevOps & Tools: Git, Docker (familiar), Postman, Jupyter, VS Code
+---
 
-Mobile: Flutter, Dart​
+## 🚀 Featured Projects
 
-🚀 Featured Projects
-WellnessWise – Health Recommendation System
-Flask-based health recommendation engine using TF-IDF, Naive Bayes, and rule-based logic with demographic tailoring, chronic-risk flags, and confidence scoring; evaluated using stratified cross-validation, confusion matrix, and F1-score.​
+- **[WellnessWise](https://github.com/DHRUVXJANI/WellnessWise)** – Health Recommendation System  
+  _Flask-based engine using TF-IDF, Naive Bayes & demographic tailoring, chronic-risk flags, confidence scoring._
+- **[MailAssist](https://github.com/DHRUVXJANI/MailAssist)** – AI Email Response Generator  
+  _Full-stack app: JWT auth, RBAC, validation, Google Gemini integration, optimized React components._
+- **[VibeLink](https://github.com/DHRUVXJANI/VibeLink)** – Real-Time Chat App  
+  _WebSockets, encrypted storage, token-secured sockets, responsive Tailwind UI._
+- **[Big Bites](https://github.com/DHRUVXJANI/BigBites)** – Food Ordering Platform  
+  _React UI, Context API, real-time cart, routing, reusable components._
 
-MailAssist – AI Email Response Generator
-Secure full-stack app with JWT auth, refresh tokens, RBAC, validation, sanitization, and rate limiting; integrates Google Gemini for contextual replies and uses reusable React components with optimized MongoDB queries.​
+---
 
-VibeLink – Real-Time Chat App
-WebSocket-based chat with typing indicators, read receipts, encrypted message storage, token-secured sockets, and a responsive Tailwind UI with avatars and status badges.​
+## 📚 Coursework & Highlights
 
-Big Bites – Food Ordering Platform
-React-based food ordering UI with routing, Context API state, dynamic menus, transitions, and a persistent real-time cart, built with responsive, reusable components and hooks.​
+- DSA, Operating Systems, DBMS, Machine Learning, Deep Learning, Computer Networks, Software Engineering
+- Built 5+ full-stack and ML projects deployed to cloud / GitHub.
+- Recognized for intuitive UI, clean architecture; certified in AI, Cloud Computing, React, Java.
 
-📚 Coursework & Highlights
-DSA - Operating Systems - DBMS - Machine Learning - Deep Learning - Computer Networks - Software Engineering.​
+---
 
-Built 5+ full-stack and ML projects deployed to cloud / GitHub.
+## 🤝 Leadership & Community
 
-Recognized for intuitive UI flows, clean architecture, and certified in AI, Cloud Computing, React, and Java fundamentals.​
+- Led AI & web teams on academic/personal projects.
+- Mentored peers in React, Git, ML tools.
+- Organized coding sessions and helped juniors get unstuck.
 
-🤝 Leadership & Community
-Led AI and web development teams on academic and personal projects.
+---
 
-Mentored peers in React, Git workflows, and ML tooling.
+## 🔗 Connect With Me
 
-Organized debugging sessions and coding discussions to help juniors get unstuck.​
+- 💼 [LinkedIn](https://www.linkedin.com/in/dhruv-jani-1605972aa/)
+- 🧑‍💻 [GitHub](https://github.com/DHRUVXJANI)
+- 📧 [Email](mailto:dhruvkjani@gmail.com)
 
-🔗 Connect With Me
-💼 LinkedIn: dhruv-jani-1605972aa​
+---
 
-🧑‍💻 GitHub: DHRUVXJANI​
-
-📧 Email: dhruvkjani@gmail.com​
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DHRUVXJANI&show_icons=true&theme=tokyonight" alt="Dhruv's GitHub Stats"/>
+</p>
