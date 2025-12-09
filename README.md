@@ -5,124 +5,80 @@ Building scalable systems, intuitive UI flows, and production-ready ML applicati
 
 💼 Professional Summary
 
-I’m a Computer Science undergraduate with strong skills in full-stack development, frontend architecture, and applied machine learning. I enjoy creating production-ready applications, optimizing ML workflows, and designing clean, maintainable systems. 
-
- 
+Computer Science undergraduate with strong skills in full-stack development, frontend architecture, and applied machine learning. Passionate about building production-ready applications, optimizing ML workflows, and designing clean, maintainable systems.
 
 🛠️ Technical Skills
 
-Languages: Python, JavaScript, C/C++, Java 
-
-
-
-Frontend: React, Vite, Tailwind CSS, Context API, React Router 
-
- 
-
-Backend: Node.js, Express, JWT Auth, REST APIs 
-
- 
-
-AI/ML: PyTorch, scikit-learn, Librosa, NumPy, Pandas; audio preprocessing & model training workflows 
-
- 
-
-Databases: MongoDB, MySQL, SQLite 
-
- 
-
-DevOps & Tools: Git, Docker (familiar), Postman, Jupyter, VS Code 
-
- 
-
-Mobile: Flutter, Dart 
-
- 
+Languages: Python, JavaScript, C/C++, Java
+Frontend: React, Vite, Tailwind CSS, Context API, React Router
+Backend: Node.js, Express, JWT Auth, REST APIs
+AI/ML: PyTorch, scikit-learn, Librosa, NumPy, Pandas
+Databases: MongoDB, MySQL, SQLite
+DevOps & Tools: Git, Docker (familiar), Postman, Jupyter, VS Code
+Mobile: Flutter, Dart
 
 🚀 Featured Projects
-
-
 🧠 WellnessWise — Health Recommendation System
 
-Flask-based diagnostic engine using TF-IDF, Naive Bayes, and rule-based logic.
+Flask engine using TF-IDF, Naive Bayes & rule-based logic
 
-Added demographic tailoring & chronic-risk flags for more precise recommendations.
+Demographic tailoring & chronic-risk flags
 
-Built clean multi-symptom UI flow + confidence scoring system.
+Multi-symptom UI flow with confidence scoring
 
-Evaluated using stratified CV, confusion matrix, and F1-score optimization.
-
-
- 
+Evaluated via stratified CV, confusion matrix & F1-score
 
 📧 MailAssist — AI Email Response Generator
 
-Full-stack app with JWT auth, refresh tokens, RBAC, and secure sessions.
+JWT auth, refresh tokens, RBAC & secure sessions
 
-Integrated Google Gemini API for contextual replies with history threading.
+Google Gemini integration for contextual replies
 
-Built reusable React UI components, editor modules, message history viewer, etc.
+Reusable React components (editors, history viewer, navigation)
 
-Secured backend via sanitization, rate limiting, and validation middleware.
+Backend with sanitization, rate limiting & validation
 
-Optimized MongoDB schemas with compound indexes & text search.
-
-
- 
+Optimized MongoDB with compound indexes & text search
 
 💬 VibeLink — Real-Time Chat App
 
-Real-time messaging using WebSockets with typing indicators & read receipts.
+WebSocket-based messaging with typing indicators & read receipts
 
-Built responsive Tailwind UI with status badges and chat bubbles.
+Tailwind UI with chat bubbles, timestamps & status badges
 
-Integrated Cloudinary for avatar storage + CDN delivery.
+Cloudinary integration for avatars
 
-Added encrypted message storage & token-secured socket authentication.
+Encrypted message storage & token-secured socket authentication
 
+🍔 Big Bites — Food Ordering Platform
 
- 
+Full React UI with routing, Context API & reusable components
 
-🍔 Big Bites — Food Ordering Platform (React)
+Dynamic menus, transitions & persistent real-time cart
 
-Designed complete React UI with routing, Context API, and reusable components.
+Responsive UX using CSS Grid/Flexbox & modular hooks
 
-Implemented dynamic menus, transitions, real-time cart updates, and persistent state.
-
-Created the full responsive UX with CSS Grid/Flexbox and modular hooks.
-
-Planned backend API contracts for future full-stack integration.
-
-
- 
+Designed backend API contracts for future expansion
 
 🎓 Coursework
 
-Data Structures & Algorithms • Operating Systems • DBMS • Machine Learning • Software Engineering • Deep Learning • Computer Networks 
-
- 
+DSA • Operating Systems • DBMS • Machine Learning • Software Engineering • Deep Learning • Computer Networks
 
 🏆 Achievements
 
-Built 5+ full-stack & ML projects deployed across cloud & GitHub.
+Built 5+ full-stack & ML projects deployed across cloud & GitHub
 
-Recognized for creating intuitive UI flows & clean architecture.
+Recognized for intuitive UI flows & clean architecture
 
-Certified in AI, Cloud Computing, React, and Java fundamentals.
-
-
- 
+Certified in AI, Cloud Computing, React, and Java Fundamentals
 
 🧑‍🤝‍🧑 Leadership
 
-Led AI and web development project teams.
+Led AI and web development teams
 
-Mentored peers in React, Git workflows, and Python ML tooling.
+Mentored peers in React, Git workflows & ML tools
 
-Organized debugging sessions and coding discussions.
-
-
- 
+Organized debugging sessions and coding discussions
 
 🔗 Connect
 
