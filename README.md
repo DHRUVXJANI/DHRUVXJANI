@@ -1,59 +1,133 @@
-# 👋 Hi, I'm Dhruv Jani
+👋 Hi, I'm Dhruv Jani
 
-**Aspiring Software Developer | Machine Learning Enthusiast | Lifelong Learner**
+CSE Undergraduate (2026) | Full-Stack Developer | Applied AI/ML Engineer
+Building scalable systems, intuitive UI flows, and production-ready ML applications.
 
-Welcome to my GitHub profile!  
-I’m passionate about **software development, machine learning, and web technologies**, and I aim to create impactful solutions through continuous learning and innovative projects.  
+💼 Professional Summary
 
----
+I’m a Computer Science undergraduate with strong skills in full-stack development, frontend architecture, and applied machine learning. I enjoy creating production-ready applications, optimizing ML workflows, and designing clean, maintainable systems. 
 
-## 💼 About Me
+ 
 
-- 🎓 **Current Role:** Student & aspiring developer  
-- 💻 **Core Skills:**  
-  - Python 🐍  
-  - JavaScript ⚡  
-  - React ⚛️  
-  - Machine Learning 🤖  
-- 🌱 **Interests:** Artificial Intelligence, Full-Stack Development, Problem Solving  
+🛠️ Technical Skills
 
----
+Languages: Python, JavaScript, C/C++, Java 
 
-## 🚀 Notable Projects
 
-- [**Wellness Wise**](https://github.com/DHRUVXJANI/wellness-wise)  
-  A comprehensive platform for **mental health, habit tracking, and personal wellness**.  
 
-- [**Mail Assist**](https://github.com/DHRUVXJANI/mail-assist)  
-  An **intelligent email assistant** designed to boost productivity with smart automation.  
+Frontend: React, Vite, Tailwind CSS, Context API, React Router 
 
-- [**VibeLink**](https://github.com/DHRUVXJANI/chat-app-new)  
-  A **real-time chat application** built for seamless and secure communication.  
+ 
 
-- [**Task Salesman**](https://github.com/DHRUVXJANI/task-salesman)  
-  Tackles **optimization problems** inspired by the Traveling Salesman algorithm.  
+Backend: Node.js, Express, JWT Auth, REST APIs 
 
-👉 Explore more in my [GitHub repositories](https://github.com/DHRUVXJANI?tab=repositories).  
+ 
 
----
+AI/ML: PyTorch, scikit-learn, Librosa, NumPy, Pandas; audio preprocessing & model training workflows 
 
-## 📊 GitHub Stats
+ 
 
-![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=DHRUVXJANI&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DHRUVXJANI&layout=compact&theme=radical)  
+Databases: MongoDB, MySQL, SQLite 
 
----
+ 
 
-## 📫 Contact & Connect
+DevOps & Tools: Git, Docker (familiar), Postman, Jupyter, VS Code 
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/dhruv-jani-1605972aa)  
-- 📧 [Email me](mailto:dhruvkjani@gmail.com) 
+ 
 
----
+Mobile: Flutter, Dart 
 
-> *“Every line of code is a small step towards a bigger vision. Write boldly, learn endlessly, and let your curiosity lead the way.”*  
-> — Dhruv Jani  
+ 
 
----
+🚀 Featured Projects
 
-⭐ Thank you for visiting my profile! I’m open to **collaboration, internships, and networking opportunities**.  
+
+🧠 WellnessWise — Health Recommendation System
+
+Flask-based diagnostic engine using TF-IDF, Naive Bayes, and rule-based logic.
+
+Added demographic tailoring & chronic-risk flags for more precise recommendations.
+
+Built clean multi-symptom UI flow + confidence scoring system.
+
+Evaluated using stratified CV, confusion matrix, and F1-score optimization.
+
+
+ 
+
+📧 MailAssist — AI Email Response Generator
+
+Full-stack app with JWT auth, refresh tokens, RBAC, and secure sessions.
+
+Integrated Google Gemini API for contextual replies with history threading.
+
+Built reusable React UI components, editor modules, message history viewer, etc.
+
+Secured backend via sanitization, rate limiting, and validation middleware.
+
+Optimized MongoDB schemas with compound indexes & text search.
+
+
+ 
+
+💬 VibeLink — Real-Time Chat App
+
+Real-time messaging using WebSockets with typing indicators & read receipts.
+
+Built responsive Tailwind UI with status badges and chat bubbles.
+
+Integrated Cloudinary for avatar storage + CDN delivery.
+
+Added encrypted message storage & token-secured socket authentication.
+
+
+ 
+
+🍔 Big Bites — Food Ordering Platform (React)
+
+Designed complete React UI with routing, Context API, and reusable components.
+
+Implemented dynamic menus, transitions, real-time cart updates, and persistent state.
+
+Created the full responsive UX with CSS Grid/Flexbox and modular hooks.
+
+Planned backend API contracts for future full-stack integration.
+
+
+ 
+
+🎓 Coursework
+
+Data Structures & Algorithms • Operating Systems • DBMS • Machine Learning • Software Engineering • Deep Learning • Computer Networks 
+
+ 
+
+🏆 Achievements
+
+Built 5+ full-stack & ML projects deployed across cloud & GitHub.
+
+Recognized for creating intuitive UI flows & clean architecture.
+
+Certified in AI, Cloud Computing, React, and Java fundamentals.
+
+
+ 
+
+🧑‍🤝‍🧑 Leadership
+
+Led AI and web development project teams.
+
+Mentored peers in React, Git workflows, and Python ML tooling.
+
+Organized debugging sessions and coding discussions.
+
+
+ 
+
+🔗 Connect
+
+LinkedIn: https://www.linkedin.com/in/dhruv-jani-1605972aa
+
+Email: dhruvkjani@gmail.com
+
+GitHub: https://github.com/DHRUVXJANI
