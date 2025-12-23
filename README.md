@@ -57,6 +57,17 @@ Building scalable systems, intuitive user experiences, and production-ready AI/M
 </p>
 
 ---
+<h2 align="center">🧠 Currently Working On</h2>
+
+- 🤖 Working as an **AI Intern**, contributing to applied AI/ML solutions  
+- 🧩 Building and experimenting with **LLMs (Large Language Models)** for real-world use cases  
+- 🔍 Designing **RAG (Retrieval-Augmented Generation)** pipelines for grounded, context-aware responses  
+- 🗂️ Exploring **vector databases & embeddings** for semantic search and knowledge retrieval  
+- 🧠 Improving prompt design, evaluation, and optimization for LLM-based systems  
+- 🧪 Applying ML concepts to production-style workflows, not just notebooks
+
+
+---
 <h2 align="center">📚 Core Knowledge</h2>
 
 - Data Structures & Algorithms  
