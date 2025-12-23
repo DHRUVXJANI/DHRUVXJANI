@@ -57,21 +57,13 @@ Building scalable systems, intuitive user experiences, and production-ready AI/M
 </p>
 
 ---
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📚 Core Knowledge</h2>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=DHRUVXJANI&show_icons=true&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHRUVXJANI&layout=compact&theme=tokyonight&hide_border=true"
-    height="150"
-  />
-</p>
+- Data Structures & Algorithms  
+- Operating Systems, DBMS, Computer Networks  
+- Software Engineering principles  
+- Machine Learning & Deep Learning fundamentals  
+- Hands-on experience with full-stack systems
 
 ---
 <h2 align="center">📌 GitHub Summary</h2>
