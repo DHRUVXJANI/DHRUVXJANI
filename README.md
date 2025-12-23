@@ -40,55 +40,44 @@ Building scalable systems, intuitive user experiences, and production-ready AI/M
 
 ### 🛠️ Languages & Tools
 
-<p align="left">
-  <!-- Programming -->
-  <img src="https://skillicons.dev/icons?i=python,js,c,cpp,java" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,c,cpp,java,html,css" />
 </p>
 
-<p align="left">
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,mongodb,mysql" />
 </p>
 
-<p align="left">
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sqlite,pytorch,tensorflow,opencv,git,docker,postman" />
 </p>
 
-<p align="left">
-  <!-- AI / ML -->
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,vscode,jupyter" />
 </p>
-
-<p align="left">
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
-</p>
-
-<p align="left">
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,docker,postman,vscode" />
-</p>
-
-<p align="left">
-  <!-- Mobile -->
-  <img src="https://skillicons.dev/icons?i=flutter,dart" />
-</p>
-
 
 ---
-
 <h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DHRUVXJANI&layout=compact&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=DHRUVXJANI&show_icons=true&theme=tokyonight" height="180"/>
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=DHRUVXJANI&show_icons=true&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+</p>
 
-<br/>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHRUVXJANI&layout=compact&theme=tokyonight&hide_border=true"
+    height="150"
+  />
+</p>
 
+---
 <h2 align="center">📌 GitHub Summary</h2>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DHRUVXJANI&theme=github_dark" />
-</div>
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DHRUVXJANI&theme=github_dark"
+  />
+</p>
