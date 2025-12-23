@@ -1,74 +1,84 @@
-<h1 align="center">Hi, I'm Dhruv Jani 👋</h1>
+<img align="center" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif" />
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DHRUVXJANI&style=flat-square" alt="profile views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=5BE3F7&center=true&vCenter=true&width=520&lines=Hi+%F0%9F%91%8B%2C+I'm+Dhruv+Jani;CSE+Undergraduate+%282026%29;Full-Stack+Developer+%7C+Applied+AI%2FML+Engineer" alt="Typing SVG" />
+</p>
+
+<h3 align="center">
+Building scalable systems, intuitive user experiences, and production-ready AI/ML applications 💡
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DHRUVXJANI&label=Profile%20views&color=0e75b6&style=flat" alt="DHRUVXJANI" />
 </p>
 
 ---
 
-🌱 **CSE Undergraduate (2026)**  
-💻 _Full-Stack Developer • Applied AI/ML Engineer_  
-🚀 Building scalable systems, intuitive UI, and production-ready ML apps
+### 👋 About Me
+
+- 🌱 CSE Undergraduate (2026) passionate about **full-stack development & applied AI/ML**
+- 🚀 Enjoy taking projects from **idea → prototype → production**
+- 🧠 Focused on **clean architecture, scalable backends, and real-world ML systems**
+- 📫 Reach me at: **dhruvkjani@gmail.com**
+- ⚡ Fun fact: I thought recursion was a personality trait. Turns out I just overthink everything in loops.
 
 ---
 
-## 🧑‍💻 About Me
-- Passionate about full-stack development & applied ML.
-- Love to take projects from **idea → prototype → production** with clean, scalable architecture.
-- Currently exploring better UX patterns, scalable backend design & deployment workflows.
+### 🤝 Connect with me
 
----
-
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff) ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?logo=javascript&logoColor=000)
-![C/C++](https://img.shields.io/badge/-C/C++-00599C?logo=cplusplus&logoColor=fff) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff)
-
-**Frontend:** React, Vite, Tailwind CSS, Context API, React Router  
-**Backend:** Node.js, Express, REST APIs, JWT Auth  
-**AI/ML:** PyTorch, scikit-learn, Librosa, NumPy, Pandas  
-**Databases:** MongoDB, MySQL, SQLite  
-**DevOps & Tools:** Git, Docker, Postman, Jupyter, VS Code  
-**Mobile:** Flutter, Dart
-
----
-
-## 🚀 Featured Projects
-
-- **[WellnessWise](https://github.com/DHRUVXJANI/WellnessWise)** – Health Recommendation System  
-  _Flask-based engine using TF-IDF, Naive Bayes & demographic tailoring, chronic-risk flags, confidence scoring._
-- **[MailAssist](https://github.com/DHRUVXJANI/MailAssist)** – AI Email Response Generator  
-  _Full-stack app: JWT auth, RBAC, validation, Google Gemini integration, optimized React components._
-- **[VibeLink](https://github.com/DHRUVXJANI/VibeLink)** – Real-Time Chat App  
-  _WebSockets, encrypted storage, token-secured sockets, responsive Tailwind UI._
-- **[Big Bites](https://github.com/DHRUVXJANI/BigBites)** – Food Ordering Platform  
-  _React UI, Context API, real-time cart, routing, reusable components._
-
----
-
-## 📚 Coursework & Highlights
-
-- DSA, Operating Systems, DBMS, Machine Learning, Deep Learning, Computer Networks, Software Engineering
-- Built 5+ full-stack and ML projects deployed to cloud / GitHub.
-- Recognized for intuitive UI, clean architecture; certified in AI, Cloud Computing, React, Java.
-
----
-
-## 🤝 Leadership & Community
-
-- Led AI & web teams on academic/personal projects.
-- Mentored peers in React, Git, ML tools.
-- Organized coding sessions and helped juniors get unstuck.
-
----
-
-## 🔗 Connect With Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/dhruv-jani-1605972aa/)
-- 🧑‍💻 [GitHub](https://github.com/DHRUVXJANI)
-- 📧 [Email](mailto:dhruvkjani@gmail.com)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DHRUVXJANI&show_icons=true&theme=tokyonight" alt="Dhruv's GitHub Stats"/>
+<p align="left">
+  <a href="https://www.linkedin.com/in/dhruv-jani-1605972aa/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/DHRUVXJANI" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="30" width="40" />
+  </a>
 </p>
+
+---
+
+### 🛠️ Languages & Tools
+
+**Programming & Core**
+- Python, JavaScript, C, C++, Java
+
+**Frontend**
+- React, Vite, Tailwind CSS  
+- Context API, React Router
+
+**Backend**
+- Node.js, Express  
+- REST APIs, JWT Authentication
+
+**AI / Machine Learning**
+- PyTorch, scikit-learn  
+- NumPy, Pandas, Librosa  
+- OpenCV
+
+**Databases**
+- MongoDB, MySQL, SQLite
+
+**DevOps & Tools**
+- Git, Docker, Postman  
+- Jupyter, VS Code
+
+**Mobile**
+- Flutter, Dart
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DHRUVXJANI&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DHRUVXJANI&show_icons=true&theme=tokyonight" height="180"/>
+</div>
+
+<br/>
+
+<h2 align="center">📌 GitHub Summary</h2>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DHRUVXJANI&theme=github_dark" />
+</div>
