@@ -40,31 +40,41 @@ Building scalable systems, intuitive user experiences, and production-ready AI/M
 
 ### 🛠️ Languages & Tools
 
-**Programming & Core**
-- Python, JavaScript, C, C++, Java
+<p align="left">
+  <!-- Programming -->
+  <img src="https://skillicons.dev/icons?i=python,js,c,cpp,java" />
+</p>
 
-**Frontend**
-- React, Vite, Tailwind CSS  
-- Context API, React Router
+<p align="left">
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css" />
+</p>
 
-**Backend**
-- Node.js, Express  
-- REST APIs, JWT Authentication
+<p align="left">
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-**AI / Machine Learning**
-- PyTorch, scikit-learn  
-- NumPy, Pandas, Librosa  
-- OpenCV
+<p align="left">
+  <!-- AI / ML -->
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+</p>
 
-**Databases**
-- MongoDB, MySQL, SQLite
+<p align="left">
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+</p>
 
-**DevOps & Tools**
-- Git, Docker, Postman  
-- Jupyter, VS Code
+<p align="left">
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,docker,postman,vscode" />
+</p>
 
-**Mobile**
-- Flutter, Dart
+<p align="left">
+  <!-- Mobile -->
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
+
 
 ---
 
