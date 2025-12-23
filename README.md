@@ -37,6 +37,59 @@ Building scalable systems, intuitive user experiences, and production-ready AI/M
 </p>
 
 ---
+<h2 align="center">🚀 Top Projects</h2>
+
+### 🧠 WellnessWise — Intelligent Health Recommendation System  
+**Tech:** Python, Flask, TF-IDF, Naive Bayes, Pandas  
+A production-oriented health recommendation engine that analyzes user-reported symptoms and demographics to generate risk-aware suggestions.
+
+- NLP-based symptom processing using TF-IDF  
+- Probabilistic predictions with confidence scoring  
+- Demographic tailoring and chronic-risk flagging  
+- Designed for explainability and real-world usability  
+
+🔗 https://github.com/DHRUVXJANI/wellnesswise
+
+---
+
+### 🔊 Audio CNN — End-to-End Environmental Sound Classification  
+**Tech:** PyTorch, Torchaudio, Librosa, Modal, Next.js, Tailwind CSS  
+An end-to-end audio classification system using a **ResNet-inspired CNN** trained on the **ESC-50 dataset (50 classes)**, with an interactive web interface for inference and interpretability.
+
+- Mel-spectrogram-based feature extraction  
+- Serverless inference using **Modal** for scalability  
+- Real-time audio upload with top-3 predictions + confidence scores  
+- Visualization of waveforms, spectrograms, and CNN feature maps  
+
+🔗 https://github.com/DHRUVXJANI/audio-cnn
+
+---
+
+### ✉️ MailAssist — AI Email Response Generator  
+**Tech:** React, Node.js, Express, JWT, Google Gemini  
+A secure, full-stack AI application that generates professional email replies using LLMs.
+
+- JWT-based authentication and role-based access control  
+- Input validation and secure API design  
+- LLM integration for context-aware responses  
+- Optimized React components for performance and UX  
+
+🔗 https://github.com/DHRUVXJANI/mail-assist
+
+---
+
+### 💬 VibeLink — Real-Time Chat Application  
+**Tech:** Node.js, WebSockets, Tailwind CSS  
+A real-time, token-secured chat system focused on performance and security.
+
+- WebSocket-based real-time messaging  
+- Token-authenticated socket connections  
+- Encrypted message storage  
+- Responsive, mobile-friendly UI  
+
+🔗https://github.com/DHRUVXJANI/chat-app-new
+
+---
 
 ### 🛠️ Languages & Tools
 
