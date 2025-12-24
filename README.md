@@ -107,22 +107,22 @@ Secure, real-time chat system with token authentication and encrypted message st
 
 ## 🛠️ Tech Stack
 
-### Languages
+<h3 align="center">Languages</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,typescript,c,cpp,java,html,css" />
 </p>
 
-### Frontend Development
+<h3 align="center">Frontend Development</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,flutter,dart" />
 </p>
 
-### Backend & Databases
+<h3 align="center">Backend & Databases</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite,redis,postgres" />
 </p>
 
-### AI/ML & Data Science
+<h3 align="center">AI/ML & Data Science</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
   <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" width="40" height="40"/>
@@ -130,7 +130,7 @@ Secure, real-time chat system with token authentication and encrypted message st
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
 </p>
 
-### Tools & Technologies
+<h3 align="center">Tools & Technologies</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" />
 </p>
