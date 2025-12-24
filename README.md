@@ -11,9 +11,10 @@
 Building scalable systems, intuitive user experiences, and production-ready AI/ML applications 💡
 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DHRUVXJANI&label=Profile%20views&color=0e75b6&style=flat" alt="DHRUVXJANI" />
-</p>
+<a href="https://portfolio-theta-one-h3o83vke0s.vercel.app/" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" height="30" width="40" />
+</a>
+
 
 ---
 
