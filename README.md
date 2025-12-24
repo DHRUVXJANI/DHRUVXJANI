@@ -1,7 +1,20 @@
 <img align="center" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=5BE3F7&center=true&vCenter=true&width=520&lines=Hi+%F0%9F%91%8B%2C+I'm+Dhruv+Jani;CSE+Undergraduate+%282026%29;Full-Stack+Developer+%7C+Applied+AI%2FML+Engineer" alt="Typing SVG" />
+<img
+  src="https://readme-typing-svg.demolab.com
+  ?font=Fira+Code
+  &weight=600
+  &size=24
+  &pause=1000
+  &speed=80
+  &color=5BE3F7
+  &center=true
+  &vCenter=true
+  &width=520
+  &lines=Hi+👋;I'm+Dhruv+Jani;•+Full-Stack+Developer+|+Applied+AI%2FML+Engineer"
+/>
+
 </p>
 
 <h3 align="center">
