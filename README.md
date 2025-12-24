@@ -34,9 +34,10 @@ Building scalable systems, intuitive user experiences, and production-ready AI/M
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/DHRUVXJANI" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="30" width="40" />
+  <a href="https://portfolio-theta-one-h3o83vke0s.vercel.app/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg"       height="30" width="40" />
   </a>
+
 </p>
 
 ---
