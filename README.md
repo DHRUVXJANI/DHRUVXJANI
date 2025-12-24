@@ -12,8 +12,9 @@ Building scalable systems, intuitive user experiences, and production-ready AI/M
 </h3>
 
 <a href="https://portfolio-theta-one-h3o83vke0s.vercel.app/" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" height="30" width="40" />
+  🌐 Portfolio
 </a>
+
 
 
 ---
