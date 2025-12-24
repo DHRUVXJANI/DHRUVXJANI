@@ -1,140 +1,61 @@
-<img align="center" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif" />
+# Hi there! 👋 I'm Dhruv Jani
 
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=5BE3F7&center=true&vCenter=true&width=520&lines=Hi+%F0%9F%91%8B%2C+I'm+Dhruv+Jani;CSE+Undergraduate+%282026%29;+AI%2FML+Engineer+%28Intern%29" alt="Typing SVG" />
-</p>
-
-
-<h3 align="center">
-Building scalable systems, intuitive user experiences, and production-ready AI/ML applications 💡
-</h3>
+Welcome to my GitHub profile! I'm passionate about coding, learning, and building amazing projects.
 
 ---
 
-### 👋 About Me
+## About Me
 
-- 🌱 CSE Undergraduate (2026) passionate about **full-stack development & applied AI/ML**
-- 🚀 Enjoy taking projects from **idea → prototype → production**
-- 🧠 Focused on **clean architecture, scalable backends, and real-world ML systems**
-- 📫 Reach me at: **dhruvkjani@gmail.com**
-- ⚡ Fun fact: I thought recursion was a personality trait. Turns out I just overthink everything in loops.
-
----
-
-### 🤝 Connect with me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/dhruv-jani-1605972aa/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://portfolio-theta-one-h3o83vke0s.vercel.app/" target="_blank">
-  🌐 
-</a>
-</a>
-
-
-</p>
-
----
-<h2 align="center">🚀 Top Projects</h2>
-
-### 🧠 WellnessWise — Intelligent Health Recommendation System  
-**Tech:** Python, Flask, TF-IDF, Naive Bayes, Pandas  
-A production-oriented health recommendation engine that analyzes user-reported symptoms and demographics to generate risk-aware suggestions.
-
-- NLP-based symptom processing using TF-IDF  
-- Probabilistic predictions with confidence scoring  
-- Demographic tailoring and chronic-risk flagging  
-- Designed for explainability and real-world usability  
-
-🔗 https://github.com/DHRUVXJANI/wellnesswise
+- 🎯 Focused on creating impactful solutions
+- 💻 Full-stack developer and tech enthusiast
+- 🚀 Always learning and exploring new technologies
+- 🌱 Contributing to open-source projects
 
 ---
 
-### 🔊 Audio CNN — End-to-End Environmental Sound Classification  
-**Tech:** PyTorch, Torchaudio, Librosa, Modal, Next.js, Tailwind CSS  
-An end-to-end audio classification system using a **ResNet-inspired CNN** trained on the **ESC-50 dataset (50 classes)**, with an interactive web interface for inference and interpretability.
+## 🔗 Connect with Me
 
-- Mel-spectrogram-based feature extraction  
-- Serverless inference using **Modal** for scalability  
-- Real-time audio upload with top-3 predictions + confidence scores  
-- Visualization of waveforms, spectrograms, and CNN feature maps  
-
-🔗 https://github.com/DHRUVXJANI/audio-cnn
-
----
-
-### ✉️ MailAssist — AI Email Response Generator  
-**Tech:** React, Node.js, Express, JWT, Google Gemini  
-A secure, full-stack AI application that generates professional email replies using LLMs.
-
-- JWT-based authentication and role-based access control  
-- Input validation and secure API design  
-- LLM integration for context-aware responses  
-- Optimized React components for performance and UX  
-
-🔗 https://github.com/DHRUVXJANI/mail-assist
+<div align="center">
+  <a href="https://www.linkedin.com/in/dhruvjani" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://dhruvjani.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:dhruv@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://twitter.com/dhruvjani" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</div>
 
 ---
 
-### 💬 VibeLink — Real-Time Chat Application  
-**Tech:** Node.js, WebSockets, Tailwind CSS  
-A real-time, token-secured chat system focused on performance and security.
+## 📊 GitHub Statistics
 
-- WebSocket-based real-time messaging  
-- Token-authenticated socket connections  
-- Encrypted message storage  
-- Responsive, mobile-friendly UI  
-
-🔗https://github.com/DHRUVXJANI/chat-app-new
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DHRUVXJANI&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
 
 ---
 
-### 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,c,cpp,java,html,css" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,mongodb,mysql" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=sqlite,pytorch,tensorflow,opencv,git,docker,postman" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,vscode,jupyter" />
-</p>
+- **Languages:** JavaScript, Python, Java, C++
+- **Frontend:** React, HTML, CSS, Tailwind CSS
+- **Backend:** Node.js, Express, Django
+- **Databases:** MongoDB, PostgreSQL, MySQL
+- **Tools:** Git, Docker, VS Code
 
 ---
-<h2 align="center">🧠 Currently Working On</h2>
 
-- 🤖 Working as an **AI Intern**, contributing to applied AI/ML solutions  
-- 🧩 Building and experimenting with **LLMs (Large Language Models)** for real-world use cases  
-- 🔍 Designing **RAG (Retrieval-Augmented Generation)** pipelines for grounded, context-aware responses  
-- 🗂️ Exploring **vector databases & embeddings** for semantic search and knowledge retrieval  
-- 🧠 Improving prompt design, evaluation, and optimization for LLM-based systems  
-- 🧪 Applying ML concepts to production-style workflows, not just notebooks
+## 📫 How to reach me
 
+Feel free to reach out through any of the channels above or open an issue on any of my repositories!
 
 ---
-<h2 align="center">📚 Core Knowledge</h2>
 
-- Data Structures & Algorithms  
-- Operating Systems, DBMS, Computer Networks  
-- Software Engineering principles  
-- Machine Learning & Deep Learning fundamentals  
-- Hands-on experience with full-stack systems
-
----
-<h2 align="center">📌 GitHub Summary</h2>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DHRUVXJANI&theme=github_dark"
-  />
-</p>
+<div align="center">
+  <p>Made with ❤️ by Dhruv Jani</p>
+</div>
