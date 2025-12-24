@@ -27,11 +27,12 @@ Building scalable systems, intuitive user experiences, and production-ready AI/M
 
 <p align="left">
   <a href="https://www.linkedin.com/in/dhruv-jani-1605972aa/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   &nbsp;&nbsp;&nbsp;
   <a href="https://portfolio-theta-one-h3o83vke0s.vercel.app/" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" height="30" width="40" />
+  🌐 
+</a>
 </a>
 
 
