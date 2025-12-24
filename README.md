@@ -108,22 +108,22 @@ Secure, real-time chat system with token authentication and encrypted message st
 ## 🛠️ Tech Stack
 
 ### Languages
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,typescript,c,cpp,java,html,css" />
 </p>
 
 ### Frontend Development
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,flutter,dart" />
 </p>
 
 ### Backend & Databases
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite,redis,postgres" />
 </p>
 
 ### AI/ML & Data Science
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
   <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
@@ -131,7 +131,7 @@ Secure, real-time chat system with token authentication and encrypted message st
 </p>
 
 ### Tools & Technologies
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" />
 </p>
 
@@ -174,11 +174,7 @@ Secure, real-time chat system with token authentication and encrypted message st
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DHRUVXJANI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DHRUVXJANI&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHRUVXJANI&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
