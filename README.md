@@ -11,12 +11,6 @@
 Building scalable systems, intuitive user experiences, and production-ready AI/ML applications 💡
 </h3>
 
-<a href="https://portfolio-theta-one-h3o83vke0s.vercel.app/" target="_blank">
-  🌐 Portfolio
-</a>
-
-
-
 ---
 
 ### 👋 About Me
@@ -37,8 +31,9 @@ Building scalable systems, intuitive user experiences, and production-ready AI/M
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://portfolio-theta-one-h3o83vke0s.vercel.app/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg"       height="30" width="40" />
-  </a>
+  <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" height="30" width="40" />
+</a>
+
 
 </p>
 
