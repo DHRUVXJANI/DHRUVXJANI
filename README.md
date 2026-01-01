@@ -28,7 +28,7 @@ Building scalable systems, intuitive user experiences, and production-ready AI/M
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://portfolio-theta-one-h3o83vke0s.vercel.app/" target="_blank">
+  <a href="https://dhruvjani.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
