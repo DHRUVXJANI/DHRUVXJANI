@@ -1,7 +1,7 @@
 <img align="center" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=5BE3F7&center=true&vCenter=true&width=520&lines=Hi+%F0%9F%91%8B%2C+I'm+Dhruv+Jani;CSE+Undergraduate+%282026%29;AI%2FML+Engineer+%28Intern%29;Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=5BE3F7&center=true&vCenter=true&width=520&lines=Hi+%F0%9F%91%8B%2C+I'm+Dhruv+Jani;CSE+Undergraduate+%282026%29;AI%2FML+Intern;" alt="Typing SVG" />
 </p>
 
 <h3 align="center">
@@ -12,12 +12,12 @@ Building scalable systems, intuitive user experiences, and production-ready AI/M
 
 ## 👨‍💻 About Me
 
-- 🎓 **CSE Undergraduate (2026)** passionate about full-stack development & applied AI/ML
+- 🎓 **CSE Undergraduate (2026)** passionate about AI/ML
 - 🚀 Love taking projects from **idea → prototype → production**
 - 🧠 Focused on **clean architecture, scalable backends, and real-world ML systems**
 - 🤖 Currently working as an **AI/ML Intern**, building LLM-powered solutions
 - 📫 Reach me at: **dhruvkjani@gmail.com**
-- ⚡ Fun fact: I thought recursion was a personality trait. Turns out I just overthink everything in loops.
+- ⚡ Fun fact: I name variables better than I name Wi-Fi networks.
 
 ---
 
@@ -119,7 +119,7 @@ Secure, real-time chat system with token authentication and encrypted message st
 
 <h3 align="center">Backend & Databases</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite,redis,postgres" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite" />
 </p>
 
 <h3 align="center">AI/ML & Data Science</h3>
